@@ -1,6 +1,6 @@
 # Angular 2 User Management Simple App with TypeScript
 
-<img width="500" src="src/images/screenshots/screen.png" border="0" />
+<img width="800" src="src/images/screenshots/screen.png" border="0" />
 
 ## Angular 2 Concepts Covered
 
